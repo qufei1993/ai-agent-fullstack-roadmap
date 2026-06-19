@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Generated temp files
+/tmp/
+/temp/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node (prevent accidental node_modules commits)
+node_modules/
+
+.docs
